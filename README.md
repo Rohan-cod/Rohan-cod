@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
 <h3 align="center">Python & IOS Developer | Deep Learning | Google HOF | Open Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-cod" alt="rohan-cod" /> </p>
 
 - 🔭 I’m currently working on **Data Science and IOS App Development**
 
