@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, IOS App Development and Deep Learning**
 
-- 📫 You can reach me via e-mail at **rohaninjmu@gmail.com**
+- 📫 You can reach me via email at **rohaninjmu@gmail.com**
 
 - ⚡ Fun fact **I love my MacBook**
 
