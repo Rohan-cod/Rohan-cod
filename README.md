@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
-<h3 align="center">Python & IOS Developer | Deep Learning | Google HOF | Open Source</h3>
+<h3 align="center">Python & IOS Developer | Deep Learning | MTA | Google HOF | Open Source</h3>
 
 
 - 🔭 I’m currently working on **Data Science and IOS App Development**
