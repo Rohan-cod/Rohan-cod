@@ -14,7 +14,7 @@
 
 - 📫 You can reach me via email at **rohaninjmu@gmail.com**
 
-- ⚡ Fun fact **I love my MacBook**
+- ⚡ Fun fact - **I love my MacBook**
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
