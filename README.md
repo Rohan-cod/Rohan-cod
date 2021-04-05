@@ -42,6 +42,9 @@
 <img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" /> <img align="left" alt="macOS" height="40px" src="https://pbs.twimg.com/profile_images/1148952014036054016/xxv7lLvp_400x400.jpg" /></p>
 <br>
 &nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cod&layout=compact" alt="rohan-cod" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Rohan-cod&theme=onedark" alt="rohan-cod" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true" alt="rohan-cod" /></p>
+&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cod&layout=compact&theme=radical" alt="rohan-cod" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true&theme=radical" alt="rohan-cod" /></p>
