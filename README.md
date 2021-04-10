@@ -51,20 +51,6 @@
 <p></p>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 170 Contributions in the Year 2021
- > 
-> 📦 819.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 96 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -120,11 +106,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Rohan-cod/Rohan-cod/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
