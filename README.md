@@ -50,8 +50,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true&theme=radical" alt="rohan-cod" /></p>
 <p></p>
 <br>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue" alt="rohan-cod" /></p>
+&nbsp;
+<br>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
