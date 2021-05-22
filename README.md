@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
-<h3 align="center">Python & IOS Developer | Deep Learning | MTA | Google HOF | Open Source</h3>
+<h3 align="center">GSoC 2021 <a href="https://github.com/ga4gh"><b>@GA4GH</b></a> | Google HOF | MTA | Python & iOS Developer | Deep Learning | Open Source</h3>
 
 
 - 🔭 I’m currently working on **Data Science and IOS App Development**
@@ -50,39 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true&theme=radical" alt="rohan-cod" /></p>
 <p></p>
 <br>
-<p>&nbsp;<img align="center" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue" alt="rohan-cod" /></p>
-&nbsp;
-<br>
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   3 hrs 33 mins       █████████████████████████   100.0%
-
-🔥 Editors: 
-Sublime Text             3 hrs 33 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-vcf2fhir                 3 hrs 22 mins       ███████████████████████░░   94.48% 
-Test                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
-
-💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    27 repos            ███████████░░░░░░░░░░░░░░   44.26% 
-Python                   23 repos            █████████░░░░░░░░░░░░░░░░   37.7% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28%
-
-```
-
-
-
-<!--END_SECTION:waka-->
