@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
+<p align="center">
+<a href="https://twitter.com/rohango" rel="nofollow">
+  <img alt="guilyx | Twitter" width="35px" src="https://camo.githubusercontent.com/3d78cadc627ebe44e27fded7e4c69d197f968b0cefa29e3a3be39e89432beb45/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313730332e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111703.svg" style="max-width:100%;">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rohang4837b4124/" rel="nofollow">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://camo.githubusercontent.com/c6be06887c6d41c2815dc3fd7aa017201cf22fa409cc781ba580f771c3fd7c5d/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313436352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111465.svg" style="max-width:100%;">
+</a>
+&nbsp;
+<a href="https://www.facebook.com/rohaninjmu" rel="nofollow">
+  <img alt="guilyx's Facebook" width="35px" src="https://camo.githubusercontent.com/be324ea0e81dcd7e19ec6a81669141d50a709a8a6b651a99fa1820697ef1099f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313334322e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111342.svg" style="max-width:100%;">
+</a>
+</p>
 <h3 align="center">GSoC 2021 <a href="https://github.com/ga4gh"><b>@GA4GH</b></a> | Google HOF | MTA | Python & iOS Developer | Deep Learning | Open Source</h3>
 
 
@@ -14,32 +27,8 @@
 
 - 📫 You can reach me via email at **rohaninjmu@gmail.com**
 
-- ⚡ Fun fact - **I love my MacBook**
+- ⚡ Fun fact - **I love my MacBook **
 
-<p align="left"> 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/rohangu12752850" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohangu12752850" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohang4837b4124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohang4837b4124" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14105345/rohan-gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="19296485" height="30" width="40" /></a>
-<a href="https://kaggle.com/rohancod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rohancod" height="30" width="40" /></a>
-<a href="https://fb.com/rohaninjmu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rohaninjmu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rohan5863" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohan5863" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohangupta4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rohangupta4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohaninjmu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rohaninjmu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rohan5863" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rohan5863" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohan5863" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rohan5863" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> <img align="left" alt="SiriKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/sirikit.png?raw=true" /> <img align="left" alt="CoreML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
-<img align="left" alt="CreateML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/createml2.png?raw=true" />
-<img align="left" alt="ARKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/arkit.png?raw=true" />
-<img align="left" alt="RealityKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/realitykit.png?raw=true" />
-<img align="left" alt="WidgetKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/widgetkit.png?raw=true" /> <img align="left" alt="SceneKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" /> <img align="left" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" /> <img align="left" alt="CocoaTouch" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
-<img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
-<img align="left" alt="CoreData" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coredata.png?raw=true" /> <img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
-<img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" /> <img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" /> <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" /> <img align="left" alt="macOS" height="40px" src="https://pbs.twimg.com/profile_images/1148952014036054016/xxv7lLvp_400x400.jpg" /></p>
 <br>
 &nbsp;
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Rohan-cod&theme=onedark" alt="rohan-cod" /></p>
