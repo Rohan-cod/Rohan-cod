@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Rohan-cod&style=plastic)
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
 <p align="center">
 <a href="https://twitter.com/rohango" rel="nofollow">
@@ -35,8 +36,10 @@
 <br>
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cod&layout=compact&theme=radical" alt="rohan-cod" /></p>
+&nbsp;
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true&theme=radical" alt="rohan-cod" /></p>
+&nbsp;
 <p></p>
 <br>
 
