@@ -29,6 +29,11 @@
 - 📫 You can reach me via email at **rohaninjmu@gmail.com**
 
 - ⚡ Fun fact - **I love my MacBook **
+<br>
+&nbsp;
+
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rohan-cod&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br>
 &nbsp;
