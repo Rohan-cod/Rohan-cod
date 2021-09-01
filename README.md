@@ -15,7 +15,7 @@
 </p>
 <h3 align="center">GSoC 2021 <a href="https://github.com/ga4gh"><b>@GA4GH</b></a> || ISCAS OSPP 2021 <a href="https://github.com/v6d-io"><b>@v6d-io</b></a> || Google HOF || MTA || Python & iOS Developer || Open Source</h3>
 
-Google Summer of Code 2021 @ga4gh || ISCAS OSPP 2021 @v6d-io || Google HOF || MTA || Python & iOS Developer || Open Source
+
 - 🔭 I’m currently working on **Data Science and IOS App Development**
 
 - 👯 I’m looking to collaborate on **Deep Learning and IOS**
