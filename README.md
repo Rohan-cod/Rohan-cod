@@ -13,9 +13,9 @@
   <img alt="guilyx's Facebook" width="35px" src="https://camo.githubusercontent.com/be324ea0e81dcd7e19ec6a81669141d50a709a8a6b651a99fa1820697ef1099f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313334322e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111342.svg" style="max-width:100%;">
 </a>
 </p>
-<h3 align="center">GSoC 2021 <a href="https://github.com/ga4gh"><b>@GA4GH</b></a> | Google HOF | MTA | Python & iOS Developer | Deep Learning | Open Source</h3>
+<h3 align="center">GSoC 2021 <a href="https://github.com/ga4gh"><b>@GA4GH</b></a> || ISCAS OSPP 2021 <a href="https://github.com/v6d-io"><b>@v6d-io</b></a> || Google HOF || MTA || Python & iOS Developer || Open Source</h3>
 
-
+Google Summer of Code 2021 @ga4gh || ISCAS OSPP 2021 @v6d-io || Google HOF || MTA || Python & iOS Developer || Open Source
 - 🔭 I’m currently working on **Data Science and IOS App Development**
 
 - 👯 I’m looking to collaborate on **Deep Learning and IOS**
