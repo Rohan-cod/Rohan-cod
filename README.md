@@ -37,13 +37,15 @@
 
 <br>
 &nbsp;
+
+<br>
+&nbsp;
+<p>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Rohan-cod&theme=onedark" alt="rohan-cod" /></p>
 <br>
-&nbsp;
-<p align="left"><img src="https://github.com/Rohan-cod/github-stats/blob/master/generated/overview.svg" alt="rohan-cod" /></p>
-&nbsp;
-<br>
-<p align="right"><img src="https://github.com/Rohan-cod/github-stats/blob/master/generated/languages.svg" alt="rohan-cod" /></p>
+<p align="left"><img src="https://github.com/Rohan-cod/GitHub-Stats-Rohan-cod/blob/master/generated/overview.svg" alt="rohan-cod" /></p>
+<p align="left"><img src="https://github.com/Rohan-cod/GitHub-Stats-Rohan-cod/blob/master/generated/languages.svg" alt="rohan-cod" /></p>
+</>
 &nbsp;
 <p></p>
 <br>
