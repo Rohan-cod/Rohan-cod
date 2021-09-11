@@ -40,10 +40,10 @@
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Rohan-cod&theme=onedark" alt="rohan-cod" /></p>
 <br>
 &nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cod&layout=compact&theme=radical" alt="rohan-cod" /></p>
+<p align="left"><img src="https://github.com/Rohan-cod/github-stats/blob/master/generated/overview.svg" alt="rohan-cod" /></p>
 &nbsp;
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-cod&show_icons=true&theme=radical" alt="rohan-cod" /></p>
+<p align="right"><img src="https://github.com/Rohan-cod/github-stats/blob/master/generated/languages.svg" alt="rohan-cod" /></p>
 &nbsp;
 <p></p>
 <br>
