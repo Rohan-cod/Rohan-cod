@@ -32,8 +32,6 @@
 <br>
 &nbsp;
 
-[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rohan-cod&theme=xcode&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <br>
 &nbsp;
