@@ -36,7 +36,9 @@
 <br>
 &nbsp;
 
-<br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-cod)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <br>
 &nbsp;
 <p>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Rohan-cod&theme=onedark" alt="rohan-cod" /></p>
@@ -46,5 +48,5 @@
 </>
 &nbsp;
 <p></p>
-<br>
+<br> -->
 
