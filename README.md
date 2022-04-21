@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Rohan-cod&style=plastic)
 <h1 align="center">Hi 👋, I'm Rohan Gupta</h1>
 <p align="center">
-<a href="https://twitter.com/rohango" rel="nofollow">
+<a href="https://twitter.com/rohan_cod" rel="nofollow">
   <img alt="guilyx | Twitter" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111703.svg" style="max-width:100%;">
 </a>
 &nbsp;
