@@ -29,7 +29,7 @@
 
 - 📫 You can reach me via email at **rohaninjmu@duck.com**
 
-- ⚡ Fun fact - **I love my MacBook **
+- ⚡ Fun fact - **I'm more than willing to volunteer for a journey into a black hole! 🌌**
 <br>
 &nbsp;
 
