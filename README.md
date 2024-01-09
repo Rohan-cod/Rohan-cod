@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning and IOS**
 
-- 🤝 I’m looking for help with **Competitive Programming, Devops, Database Management and Interview Preparation**
+- 🤝 I’m looking for help with **Competitive Programming, Devops and Flutter**
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/Rohan-cod?tab=repositories&q=&type=source&language=)
 
