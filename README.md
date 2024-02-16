@@ -29,6 +29,8 @@
 
 - 📫 You can reach me via email at **rohaninjmu@duck.com**
 
+-  My recent app on the App Store: [**Astrolify**](https://apps.apple.com/app/id6477541882)
+
 - ⚡ Fun fact - **I'm more than willing to volunteer for a journey into a black hole! 🌌**
 <br>
 &nbsp;
