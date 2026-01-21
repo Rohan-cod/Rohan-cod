@@ -29,7 +29,7 @@
 
 - 📫 You can reach me via email at **rohaninjmu@duck.com**
 
--  My recent app on the App Store: [**Astrolify**](https://apps.apple.com/app/id6477541882)
+-  My recent app on the App Store: [**Stellarect**](https://apps.apple.com/in/app/stellarect/id6484311224)
 
 - ⚡ Fun fact - **I'm more than willing to volunteer for a journey into a black hole! 🌌**
 <br>
